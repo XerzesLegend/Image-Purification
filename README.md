@@ -5,5 +5,5 @@ IDEA IS ENTIRLEY MY OWN. Please if you see something similar do tell me.
 
 Disclaimer:
 
-MOST CODE IS NOT MY OWN. THE CLUSTERING ALGORITHM IS FROM: https://towardsdatascience.com/how-to-cluster-images-based-on-visual-similarity-cd6e7209fe34 AND THE WEB SCRAPING IS FROM: 
+MOST CODE IS NOT MY OWN. THE CLUSTERING ALGORITHM IS FROM: https://towardsdatascience.com/how-to-cluster-images-based-on-visual-similarity-cd6e7209fe34 AND THE WEB SCRAPING IS FROM: https://pypi.org/project/bing-image-downloader/
 
